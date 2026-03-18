@@ -4,7 +4,8 @@
 
 PetrolSupply is a decentralized digital asset designed to fuel the future of finance on the Solana network. Fast, efficient, and built for scalability, $PETROL empowers users with seamless transactions and real-world utility.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : AH8St2kUcdNxEtC7kYWtwQeE4KaMjPqs2ZEmoE6Apump
+Lock DEV : https://app.streamflow.finance/contract/solana/mainnet/7JNFscuJZgnk8ypV8nAPtyMQrvWznBkUq5aw9eKy7mRq?ref=lately-incisive-numbat
 ---
 
 ## 🚀 Overview
