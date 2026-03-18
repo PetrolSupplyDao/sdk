@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0b0f1a;
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 60px 20px;
+  background: linear-gradient(135deg, #ff7a00, #ffb347);
+}
+
+header h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.buttons a {
+  margin: 10px;
+  padding: 10px 20px;
+  background: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+section {
+  padding: 40px 20px;
+}
+
+.features ul {
+  list-style: none;
+  padding: 0;
+}
+
+.features li {
+  margin: 10px 0;
+}
+
+footer {
+  padding: 20px;
+  background: #111;
+}
